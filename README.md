@@ -22,11 +22,11 @@ Lately, I've been merging my passion for infrastructure with game development. I
 
 ---
 
-> [!IMPORTANT]
-> **Note on my History:** Most of my professional and personal work prior to **March 2026** was hosted on **GitLab**. I am currently in the process of migrating and open-sourcing my latest projects and architectural experiments here on GitHub.
-
 ### 📊 GitHub Stats
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGoddard&show_icons=true&theme=dark&hide_border=true)
+
+> [!IMPORTANT]
+> **Note on my History:** Most of my professional and personal work prior to **March 2026** was hosted on **GitLab**. I am currently in the process of migrating and open-sourcing my latest projects and architectural experiments here on GitHub.
 
 ---
