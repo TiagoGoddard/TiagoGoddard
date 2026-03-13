@@ -4,9 +4,6 @@ I'm a **Site Reliability Engineer** and **Tech Manager** with a deep background 
 
 Lately, I've been merging my passion for infrastructure with game development. I am currently focused on **Game Server Orchestration** with Agones and building the **Kodejo** ecosystem—a suite of tools for game backends, anti-cheat, and digital well-being.
 
-> [!IMPORTANT]
-> **Note on my History:** Most of my professional and personal work prior to **March 2026** was hosted on **GitLab**. I am currently in the process of migrating and open-sourcing my latest projects and architectural experiments here on GitHub.
-
 - 🔭 **Currently working on:** Cloud infrastructure, platform engineering, and the **Kodejo** game backend platform.
 - 🌱 **Learning:** Distributed systems patterns for low-latency gaming and observability in game server clusters.
 - 🎮 **Gaming:** When I'm not coding, you can find me in **EVE Online**, **Torn**, or tinkering with **Godot** for 3D fantasy RPGs.
@@ -24,6 +21,9 @@ Lately, I've been merging my passion for infrastructure with game development. I
 | **Gamedev** | ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Agones](https://img.shields.io/badge/-Agones-7BA9EB?style=flat-square) |
 
 ---
+
+> [!IMPORTANT]
+> **Note on my History:** Most of my professional and personal work prior to **March 2026** was hosted on **GitLab**. I am currently in the process of migrating and open-sourcing my latest projects and architectural experiments here on GitHub.
 
 ### 📊 GitHub Stats
 
