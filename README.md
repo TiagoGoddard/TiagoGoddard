@@ -6,7 +6,7 @@ Lately, I've been merging my passion for infrastructure with game development. I
 
 - 🔭 **Currently working on:** Cloud infrastructure, platform engineering, and the **Kodejo** game backend platform.
 - 🌱 **Learning:** Distributed systems patterns for low-latency gaming and observability in game server clusters.
-- 🎮 **Gaming:** When I'm not coding, you can find me in **EVE Online**, **Torn**, or tinkering with **Godot**.
+- 🎮 **Hobbies:** When I'm not coding, you can find me in **EVE Online**, **Torn**, or tinkering with **Godot**.
 - 💬 **Ask me about:** Kubernetes, Go, PHP, Software Architecture, or building reliable game tools.
 
 ---
