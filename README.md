@@ -1,6 +1,6 @@
 ## I'm Tiago Goddard, Hello!
 
-I'm a **Site Reliability Engineer** but I've worked previously as a **Software Architect** and a **Tech Manager** with a deep background as a **Software Developer**. I specialize in designing and operating cloud-native platforms, specifically Kubernetes-based infrastructure on AWS and GCP.
+I'm a **Site Reliability Engineer** but I've worked previously as a **Software Architect** and a **Tech Manager**. I also have a deep background in **Software Development**. I specialize in designing and operating cloud-native platforms, specifically Kubernetes-based infrastructure on AWS and GCP.
 
 Lately, I've been merging my passion for infrastructure with game development. I am currently focused on **Game Server Orchestration** with Agones and building the **Kodejo** ecosystem—a suite of tools for game backends, anti-cheat, and digital well-being.
 
