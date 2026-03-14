@@ -26,7 +26,7 @@ Lately, I've been merging my passion for infrastructure with game development. I
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoGoddard&show_icons=true&theme=dark&hide_border=true)
 
-> [!Note on my Stats]
+> [!IMPORTANT]
 > Most of my professional and personal work prior to **March 2026** was hosted on a private **GitLab** instance. I am currently in the process of migrating and open-sourcing my latest projects and architectural experiments here on GitHub.
 
 ---
