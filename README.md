@@ -25,7 +25,7 @@ Lately, I've been merging my passion for infrastructure with game development. I
 ### 📊 GitHub Stats
 
 > [!IMPORTANT]
-> Most of my professional and personal work prior to **March 2026** was hosted on a private **GitLab** instance. I am currently in the process of migrating and open-sourcing my latest projects and architectural experiments here on GitHub.
+> Most of my professional and personal work is hosted on a private **GitLab** instance.
 
 ---
 
