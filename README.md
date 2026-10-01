@@ -2,7 +2,7 @@
 
 I'm a **Site Reliability Engineer** but I've worked previously as a **Software Architect** and a **Tech Manager**. I also have a deep background in **Software Development**. I specialize in designing and operating cloud-native platforms, specifically Kubernetes-based infrastructure on AWS and GCP.
 
-Lately, I've been merging my passion for infrastructure with game development. I am currently focused on **Game Server Orchestration** with Agones and building the **Kodejo** ecosystem—a suite of tools for game backends, anti-cheat, and digital well-being.
+Lately, I've been merging my passion for infrastructure with game development. I am currently focused on **Game Server Orchestration** with Agones and building the **Kodejo** ecosystem a passion project of a suite of tools for game backends, anti-cheat, and digital well-being.
 
 - 🔭 **Currently working on:** Cloud infrastructure, platform engineering, and the **Kodejo** game backend platform.
 - 🌱 **Learning:** Distributed systems patterns for low-latency gaming and observability in game server clusters.
